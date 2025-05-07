@@ -1,3 +1,4 @@
+line3 in file7
 line2 in file7
 created file7.txt
 
