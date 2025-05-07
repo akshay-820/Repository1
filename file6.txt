@@ -1,2 +1,3 @@
+extra text in file6
 created file6.txt
 
